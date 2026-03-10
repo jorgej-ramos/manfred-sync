@@ -625,7 +625,13 @@
       },
       {
         "skill": {
-          "name": "Objective-C",
+          "name": "Jetpack Compose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
           "type": "technology"
         }
       },
@@ -662,12 +668,6 @@
       {
         "skill": {
           "name": "XCTest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XCode",
           "type": "technology"
         }
       }
@@ -737,7 +737,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Objective-C",
+        "name": "Jetpack Compose",
+        "type": "technology"
+      },
+      {
+        "name": "Kotlin",
         "type": "technology"
       },
       {
@@ -750,10 +754,6 @@
       },
       {
         "name": "UIKit",
-        "type": "technology"
-      },
-      {
-        "name": "XCode",
         "type": "technology"
       }
     ],
