@@ -52,6 +52,7 @@
           {
             "name": "Senior iOS Developer",
             "startDate": "2024-01-01",
+            "finishDate": "2025-11-01",
             "challenges": [
               {
                 "description": "Llevando a cabo el reto de privacidad de ellu, primero manteniendo la aplicación iOS existente y después implementando el cifrado Signal para el envío y recepción de mensajes."
@@ -171,7 +172,7 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -677,9 +678,6 @@
           "URL": "https://twitter.com/yoryobass",
           "type": "twitter"
         }
-      ],
-      "contactMails": [
-        "jorge.ramos@me.com"
       ]
     },
     "preferences": {
