@@ -721,16 +721,6 @@
           "type": "technology"
         }
       ],
-      "discardedCompetences": [
-        {
-          "name": "Android",
-          "type": "technology"
-        },
-        {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Mobile Developer",
         "Software Architect",
