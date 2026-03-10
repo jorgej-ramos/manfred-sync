@@ -46,6 +46,40 @@
     "jobs": [
       {
         "organization": {
+          "name": "Autónomo"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador freelance",
+            "startDate": "2026-01-01",
+            "challenges": [
+              {
+                "description": "Tras 20 años de experiencia desarrollando software, y con la aparición de tecnologías de IA avanzadas, actualmente desempeño mi labor de desarrollo en régimen de freelance.\n\nEspecializado en desarrollo de apps móviles, aunque cubriendo un amplio espectro en el resto de disciplinas de desarrollo de software."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Jetpack Compose",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Swift",
+                "type": "technology"
+              },
+              {
+                "name": "SwiftUI",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "ellu"
         },
         "roles": [
